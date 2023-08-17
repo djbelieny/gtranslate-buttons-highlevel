@@ -1,7 +1,3 @@
-Certainly! Here's the revised `README.md`:
-
----
-
 # Custom Google Translate Integration for GoHighlevel
 
 This guide will help you integrate a custom Google Translate functionality into your GoHighlevel funnel or site. Instead of using the default Google Translate widget, we're providing a custom solution that allows users to translate the site using dedicated buttons.
